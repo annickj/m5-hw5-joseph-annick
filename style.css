@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    background-color: #18b7b3;
+    background-color: #084543;
     color: white;
     padding: 0rem 0;
     text-align: center;
 }
 
 h1 {
-    background-color: #ed7896;
+    background-color: #a40029;
     padding: 2rem;
     
 }
@@ -99,6 +99,6 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #ed7896;
+    background-color: #a40029;
     color: #ffffff;
 }
